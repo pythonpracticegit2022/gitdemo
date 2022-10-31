@@ -1,0 +1,3 @@
+def multiplication(p,q):
+	result=p*q
+	print(result)
