@@ -1,0 +1,6 @@
+def subtraction(a-b):
+	if a>b:
+		result=a-b
+	else:
+		result=b-1
+	print(result)
