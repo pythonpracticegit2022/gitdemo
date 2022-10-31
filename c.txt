@@ -1,3 +1,5 @@
 def multiplication(p,q):
 	result=p*q
 	print(result)
+
+multiplication(3,4)
