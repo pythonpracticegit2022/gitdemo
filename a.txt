@@ -1,3 +1,6 @@
+even_list=[i for i in range(21) if i%2==0]
+print(even_list)
+
 def factorial(num):
 	if num==1:
 		return 1
@@ -5,3 +8,6 @@ def factorial(num):
 		return (num * factorial(num-1))
 
 print(factorial(3))
+
+even_list=[i for i in range(21) if i%2==0]
+print(even_list)
