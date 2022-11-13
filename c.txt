@@ -3,3 +3,5 @@ def multiplication(p,q):
 	print(result)
 
 multiplication(3,4)
+
+#multiplication code is added
