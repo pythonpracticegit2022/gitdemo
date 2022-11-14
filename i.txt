@@ -1,2 +1,6 @@
 def m():
 	pass
+def m2():
+	pass
+def m3():
+	pass
